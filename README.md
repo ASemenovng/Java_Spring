@@ -5,7 +5,7 @@
 - Введение в Spring Framework
 - IoC, DI, Boot, Data, Security, Cloud, Native
 - Rest, Rest Api
-- Spring MVC
+- Spring MVC, REST
 - Базы данных (JDBC, JPA, Hibernate)
 - Конфигурции
 - Spring Security
