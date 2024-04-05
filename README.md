@@ -3,11 +3,11 @@
 ## Темы курса
 - Системы сборки
 - Введение в Spring Framework
-- IoC, DI, Boot, Data, Security, Cloud, Native
-- Rest, Rest Api
-- Spring MVC
+- IoC, DI
 - Базы данных (JDBC, JPA, Hibernate)
-- Конфигурции
+- Spring MVC
+- Rest, Rest Api
+- Boot, Data, Security, Cloud, Native
 - Spring Security
 - Тестирование в Spring (JUnit, Mockito)
 
